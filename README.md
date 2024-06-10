@@ -5,7 +5,10 @@
 <p>- 📫 How to reach me: <a href="mailto:kaoutar.iabakriman@etu.uae.ac.ma">kaoutar.iabakriman@etu.uae.ac.ma</a></p>
 <br>
 <h3 align="center">Connect with me</h3>
-<p align="center"><a href="https://www.linkedin.com/in/kaoutar-iabakriman-4525291a8/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaoutar-iabakriman-4525291a8/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -24,5 +27,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" width="40" />
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-plain.svg" alt="phpMyAdmin" height="40" width="40" />
 
 </p>
