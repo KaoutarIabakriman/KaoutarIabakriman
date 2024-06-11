@@ -33,8 +33,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
 <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://image.flaticon.com/icons/png/512/2111/2111646.png" alt="Postman" height="40" width="40"/>
+  <img src="URL_OF_YOUR_IMAGE" alt="Postman" height="40" width="40"/>
 </a>
+
 
 </a>
 </p>
