@@ -31,5 +31,5 @@
 <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" height="40" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="40" width="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
-
+<a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/> </a>
 </p>
