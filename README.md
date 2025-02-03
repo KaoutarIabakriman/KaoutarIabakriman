@@ -5,14 +5,15 @@
 <p>- 📫 How to reach me: <a href="mailto:kaoutar.iabakriman@etu.uae.ac.ma">kaoutar.iabakriman@etu.uae.ac.ma</a></p>
 <br>
 <h3 align="center">Connect with me</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="55" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="55" width="55" />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kaoutar-iabakriman-4525291a8/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="55" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="55" width="55" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="55" width="55" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="55" width="55" />
