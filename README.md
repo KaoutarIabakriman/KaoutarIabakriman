@@ -35,7 +35,7 @@
   <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer">
     <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="55" height="55"/>
   </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" height="55" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="55" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="55" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="55" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="55" width="55" />
