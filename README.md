@@ -37,5 +37,6 @@
   </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" height="40" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="40" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/UML_logo.svg" alt="UML" height="40" width="40" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/UML_logo.svg" alt="UML" height="40" width="40" />
+
 </p>
