@@ -4,9 +4,9 @@
 <p>- 🌱 Currently learning everything about any IT field, always ready to learn and explore more about the new technologies.</p>
 <p>- 📫 How to reach me: <a href="mailto:kaoutar.iabakriman@etu.uae.ac.ma">kaoutar.iabakriman@etu.uae.ac.ma</a></p>
 <br>
+<h3 align="center">Connect with me</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="55" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="55" width="55" />
-<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaoutar-iabakriman-4525291a8/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
