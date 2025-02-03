@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kaoutar-iabakriman-4525291a8/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="[https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=About.me&logoColor=white](https://kaoutariabakrimansite.netlify.app/)" alt="Portfolio" />
+ <a href="https://kaoutariabakrimansite.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 <br>
