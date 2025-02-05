@@ -31,9 +31,6 @@
     <img src="https://www.phpmyadmin.net/static/images/logo-og.png" alt="phpMyAdmin" height="55" width="55" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="55" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="55" width="55" />
-    <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="55" height="55"/>
-  </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height="55" width="55" 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="55" width="55" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" height="55" width="55" />
@@ -44,6 +41,6 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="55" width="55" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="55" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="55" width="55" />
+
 </p>
 
