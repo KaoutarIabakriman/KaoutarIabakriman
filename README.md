@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm AYA 👋</h1>
+<h1 align="center">Hi, I'm KAOUTAR Iabakriman 👋</h1>
 <h3 align="center">🎓 Computer Science Engineering student </h3>
 <br>
 <p>- 🌱 Currently learning everything about any IT field, always ready to learn and explore more about the new technologies.</p>
